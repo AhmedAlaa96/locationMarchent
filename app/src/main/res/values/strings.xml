@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">locationMarchent</string>
+    <string name="cont">Contiue</string>
+    <string name="cancel">Cancel</string>
+</resources>
